@@ -24,13 +24,13 @@ else
 }
 
 string msg = "dog and fox are walking down the road";
-bool result = msg.Contains("dog");
-if (result)
+bool result1 = msg.Contains("dog");
+if (result1)
 {
     Console.WriteLine("There is dog in that sentence");
 
 }
-if (!result)
+if (!result1)
 {
     Console.WriteLine("There is no dog in that sentence");
 }
@@ -74,8 +74,26 @@ foreach(int a in asimentScores)
 
 Console.WriteLine("Signed integral types:");
 
-Console.WriteLine($"sbyte  : {sbyte.MinValue} to {sbyte.MaxValue}");
-Console.WriteLine($"short  : {short.MinValue} to {short.MaxValue}");
-Console.WriteLine($"int    : {int.MinValue} to {int.MaxValue}");
-Console.WriteLine($"long   : {long.MinValue} to {long.MaxValue}");
+
+
+string[] values = { "12.3", "45", "ABC", "11", "DEF" };
+
+string textAnswer = "";
+decimal totalNumber = 0m;
+
+foreach (var indexer in values)
+{
+    decimal result;
+    if (decimal.TryParse(indexer, out result))
+    {
+        totalNumber += result;
+    }
+    else
+    {
+        textAnswer += indexer;
+    }
+}
+Console.WriteLine("Total number: " + totalNumber + "\nMessage: " + textAnswer);
+
+
 
