@@ -1,0 +1,15 @@
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\bin\Debug\net6.0\MicrosoftCertificate.exe
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\bin\Debug\net6.0\MicrosoftCertificate.deps.json
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\bin\Debug\net6.0\MicrosoftCertificate.runtimeconfig.json
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\bin\Debug\net6.0\MicrosoftCertificate.dll
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\bin\Debug\net6.0\MicrosoftCertificate.pdb
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\obj\Debug\net6.0\MicrosoftCertificate.csproj.AssemblyReference.cache
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\obj\Debug\net6.0\MicrosoftCertificate.GeneratedMSBuildEditorConfig.editorconfig
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\obj\Debug\net6.0\MicrosoftCertificate.AssemblyInfoInputs.cache
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\obj\Debug\net6.0\MicrosoftCertificate.AssemblyInfo.cs
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\obj\Debug\net6.0\MicrosoftCertificate.csproj.CoreCompileInputs.cache
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\obj\Debug\net6.0\MicrosoftCertificate.dll
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\obj\Debug\net6.0\refint\MicrosoftCertificate.dll
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\obj\Debug\net6.0\MicrosoftCertificate.pdb
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\obj\Debug\net6.0\MicrosoftCertificate.genruntimeconfig.cache
+Q:\qtexe\MicrosoftCertificate\MicrosoftCertificate\obj\Debug\net6.0\ref\MicrosoftCertificate.dll
